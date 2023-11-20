@@ -1,0 +1,1 @@
+python step3_train.py -epoch 40 -b 128

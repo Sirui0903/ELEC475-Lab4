@@ -1,0 +1,5 @@
+test image:
+python step4.py -d y
+
+test accuracy and ROI:
+python step4.py
